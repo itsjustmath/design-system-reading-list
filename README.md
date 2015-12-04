@@ -18,9 +18,13 @@ A design system is a definition of the architecture, content, visual, and suppor
 
 ## Articles
 
+- [A Maturity Model for Design Systems](https://medium.com/@marcelosomers/a-maturity-model-for-design-systems-93fff522c3ba#.xtwz0kfd9) by Marcelo Summers (11/9/2015)
 - [The Salesforce Team Model for Scaling a Design System](https://medium.com/salesforce-ux/the-salesforce-team-model-for-scaling-a-design-system-d89c2a2d404b#.p9ld89gpf) by Jina Bolton (10/13/2015)
+- [Finding Platform Balance in a Design System](https://medium.com/eightshapes-llc/finding-platform-balance-in-a-design-system-47eaae48de98#.jxgt4cha1) by Nathan Curtis (10/9/2015)
 - [Team Models for Scaling a Design System](https://medium.com/eightshapes-llc/team-models-for-scaling-a-design-system-2cf9d03be6a0#.q00vmfebw) by Nathan Curtis (9/17/2015)
+- [Building an Enterprise CSS Framework](https://medium.com/salesforce-ux/building-an-enterprise-framework-is-hard-1e8d8b33e082#.ye72nn893) by Stef. Sullivan Rewis (9/15/2015)
 - [How We Designed the New Salesforce at Scale](https://medium.com/salesforce-ux/how-we-designed-the-new-salesforce-at-scale-6d3607fd92e5#.buf2ljmvx) by Craig Villamor (8/25/2015)
+- [An In-Depth Overview Of Living Style Guide Tools](http://www.smashingmagazine.com/2015/04/an-in-depth-overview-of-living-style-guide-tools/) By Robert Haritonov
 - [Living Design System](https://medium.com/salesforce-ux/living-design-system-3ab1f2280ef7#.uy5oc93i0) by Sönke Rohde (9/11/2014)
 - [A Maintainable Style Guide](http://ianfeather.co.uk/a-maintainable-style-guide/) by Ian Feather (5/15/2014)
 - [Creating Style Guides](http://alistapart.com/article/creating-style-guides) by Susan Robertson (4/8/2014)
@@ -31,6 +35,7 @@ A design system is a definition of the architecture, content, visual, and suppor
 
 - [From Pages to Patterns](http://alistapart.com/article/from-pages-to-patterns-an-exercise-for-everyone) by Charlotte Jackson (11/3/2015)
 - [The Component Cut-Up Workshop](The Component Cut-Up Workshop) by Nathan Curtis (11/3/2015)
+- [Framing a Design System’s Roadmap](https://medium.com/eightshapes-llc/what-s-will-your-design-system-deliver-4b81d41be0d4#.4ezwyp5d0) by Nathan Curtis (10/28/2015)
 
 ## Design Systems
 
