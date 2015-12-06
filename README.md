@@ -24,7 +24,7 @@ A design system is a definition of the architecture, content, visual, and suppor
 - [Team Models for Scaling a Design System](https://medium.com/eightshapes-llc/team-models-for-scaling-a-design-system-2cf9d03be6a0#.q00vmfebw) by Nathan Curtis (9/17/2015)
 - [Building an Enterprise CSS Framework](https://medium.com/salesforce-ux/building-an-enterprise-framework-is-hard-1e8d8b33e082#.ye72nn893) by Stef. Sullivan Rewis (9/15/2015)
 - [How We Designed the New Salesforce at Scale](https://medium.com/salesforce-ux/how-we-designed-the-new-salesforce-at-scale-6d3607fd92e5#.buf2ljmvx) by Craig Villamor (8/25/2015)
-- [An In-Depth Overview Of Living Style Guide Tools](http://www.smashingmagazine.com/2015/04/an-in-depth-overview-of-living-style-guide-tools/) By Robert Haritonov
+- [An In-Depth Overview Of Living Style Guide Tools](http://www.smashingmagazine.com/2015/04/an-in-depth-overview-of-living-style-guide-tools/) By Robert Haritonov (5/13/2015)
 - [Living Design System](https://medium.com/salesforce-ux/living-design-system-3ab1f2280ef7#.uy5oc93i0) by Sönke Rohde (9/11/2014)
 - [A Maintainable Style Guide](http://ianfeather.co.uk/a-maintainable-style-guide/) by Ian Feather (5/15/2014)
 - [Creating Style Guides](http://alistapart.com/article/creating-style-guides) by Susan Robertson (4/8/2014)
@@ -41,7 +41,7 @@ A design system is a definition of the architecture, content, visual, and suppor
 
 *I'm trying my best to provide examples of systems that "establish a high-quality, brand-aligned experience across their product through human guidance and internal tools."* [*](https://medium.com/salesforce-ux/the-salesforce-team-model-for-scaling-a-design-system-d89c2a2d404b#.ho0kz31s6)
 
-- [Salesforce](https://www.lightningdesignsystem.com/)
+- [Salesforce](https://www.lightningdesignsystem.com/) [*](https://developer.salesforce.com/trailhead/module/lightning_design_system)
 - [Google](https://www.google.com/design/spec/material-design/introduction.html)
 - [IBM](https://www.ibm.com/design/language/)
 - [Buzzfeed](http://solid.buzzfeed.com/)
@@ -71,5 +71,4 @@ A design system is a definition of the architecture, content, visual, and suppor
 
 - [UI Styleguides](http://kevinformatics.com/ui-styleguides/)
 - [styleguides.io](http://styleguides.io/)
-- [Salesforce Trailhead Guide](https://developer.salesforce.com/trailhead/module/lightning_design_system)
-- [Avocode](http://avocode.com/): the bridge between designers and developers
+- [Avocode](http://avocode.com/)
