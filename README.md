@@ -29,7 +29,11 @@ A design system is a definition of the architecture, content, visual, and suppor
 - [A Maintainable Style Guide](http://ianfeather.co.uk/a-maintainable-style-guide/) by Ian Feather (5/15/2014)
 - [Creating Style Guides](http://alistapart.com/article/creating-style-guides) by Susan Robertson (4/8/2014)
 - [Designing Products That Scale](https://medium.com/salesforce-ux/designing-products-that-scale-c8f3001f709b#.wiw661fw0) by Brad Haynes (12/9/2013)
+- [Breaking Development: Atomic Design](http://www.lukew.com/ff/entry.asp?1809) by Luke Wroblewski (10/22/2013)
+- [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/) by Brad Frost (6/10/2013)
+- [Reponsive Deliverables](http://daverupert.com/2013/04/responsive-deliverables/) by Dave Rupert (4/2/2013)
 - [What is a Design System?](http://www.eightshapes.com/blog/2011/05/10/what-is-a-design-system/) by Nathan Curtis (5/10/2011)
+- [Front-end Style Guides]()
 
 ### Starting Exercies
 
@@ -42,33 +46,41 @@ A design system is a definition of the architecture, content, visual, and suppor
 *I'm trying my best to provide examples of systems that "establish a high-quality, brand-aligned experience across their product through human guidance and internal tools."* [*](https://medium.com/salesforce-ux/the-salesforce-team-model-for-scaling-a-design-system-d89c2a2d404b#.ho0kz31s6)
 
 - [Salesforce](https://www.lightningdesignsystem.com/) [*](https://developer.salesforce.com/trailhead/module/lightning_design_system)
-- [Google](https://www.google.com/design/spec/material-design/introduction.html)
-- [IBM](https://www.ibm.com/design/language/)
-- [Buzzfeed](http://solid.buzzfeed.com/)
-- [Mapbox](https://www.mapbox.com/base/)
 - [Atlassian](https://design.atlassian.com/)
-- [Lonely Planet](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours)
-- [Buffer](https://buffer.com/style-guide)
-- [Gov.uk](https://www.gov.uk/service-manual)
-- [Github](https://github.com/styleguide)
-- [BBC](http://www.bbc.co.uk/gel)
-- [Disqus](https://disqus.com/pages/style-guide/)
+- [IBM](https://www.ibm.com/design/language/)
+- [Google](https://www.google.com/design/spec/material-design/introduction.html)
+- [Gov.uk](https://www.gov.uk/service-manual/browse) [*](https://gdstechnology.blog.gov.uk/2014/12/11/govuk-living-style-guide/)
 - [Ubuntu](https://design.ubuntu.com/)
+
+## Traditional "Style Guides"
+*These are examples of more engineering focused style guide systems.*
+
+- [Buzzfeed](http://solid.buzzfeed.com/)
+- [Best Buy](http://bbybranddidentity.com/guidelines-bby/brand-examples/)
+- [Buffer](https://bufferapp.com/style-guide)
+- [Code for America](http://codeforamerica.clearleft.com/)
+- [Github](http://primercss.io/)
+- [Gov.uk](https://www.gov.uk/service-manual/browse)
+- [Lonely Planet](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours) 
+- [Mailchimp](http://ux.mailchimp.com/patterns)
+- [Mapbox](https://www.mapbox.com/base/)
+- [Pivotal](https://console.run.pivotal.io/style_guide)
+- ~~[Salesforce](http://sfdc-styleguide.herokuapp.com/)~~
+- [WooThemes](http://www.woothemes.com/style-guide/)
 - [Yelp](http://www.yelp.com/styleguide)
 
-## Tools
-
-- [styleguide](https://github.com/hugeinc/styleguide) by HUGE
-- [Theo](https://github.com/salesforce-ux/theo) by Salesforce
 
 ## Talks
 
 - [Fight the Zombie Pattern Library](https://speakerdeck.com/marcelosomers/fight-the-zombie-pattern-library-css-dev-conf-2015) by Marcelo Somers (10/26/2015)
 - [Designing a Design System](https://speakerdeck.com/jina/designing-a-design-system) by Jina Bolton (11/16/2015)
 - [Build Your Own Bootstrap](https://speakerdeck.com/mdo/build-your-own-bootstrap) by Mark Otto (10/25/2013)
+- [Atomic Design](http://www.slideshare.net/bradfrostweb/atomic-design) by Brad Frost (5/28/2013)
+- [Unifying Agile and UX with Live Style Guides](https://speakerdeck.com/thoughtmerchant/unifying-agile-and-ux-with-live-style-guides) by Steve Berry (1/26/2012)
 
 ## Other Resources
 
+- [Styleguide & Boilerplate Patterns](https://docs.google.com/spreadsheet/ccc?key=0AiN0QfBTPpOCdDFjWlM0eU1ra21XanZkekxGbjA2WWc&usp=sharing) (Spreadsheet)
 - [UI Styleguides](http://kevinformatics.com/ui-styleguides/)
 - [styleguides.io](http://styleguides.io/)
 - [Avocode](http://avocode.com/)
